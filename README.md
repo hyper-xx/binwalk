@@ -1,5 +1,6 @@
 Description
 ===========
+.TRX反编译，后门查看工具
 
 Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
 
